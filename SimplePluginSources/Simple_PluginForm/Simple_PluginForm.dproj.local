@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025.02.10 07:52:29.706.dproj,F:\Programming\BasicSimplePluginUsageSample (2025)\BasicSimplePluginUsageSample\SimplePluginSources\Simple_PluginForm\pluginform.dproj=F:\Programming\BasicSimplePluginUsageSample (2025)\BasicSimplePluginUsageSample\SimplePluginSources\Simple_PluginForm\Simple_Plugin_Form_DLL.dproj</Transaction>
+    <Transaction>2025.02.10 07:54:48.404.dproj,F:\Programming\BasicSimplePluginUsageSample (2025)\BasicSimplePluginUsageSample\SimplePluginSources\Simple_PluginForm\Simple_Plugin_Form_DLL.dproj=F:\Programming\BasicSimplePluginUsageSample (2025)\BasicSimplePluginUsageSample\SimplePluginSources\Simple_PluginForm\Simple_PluginForm.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

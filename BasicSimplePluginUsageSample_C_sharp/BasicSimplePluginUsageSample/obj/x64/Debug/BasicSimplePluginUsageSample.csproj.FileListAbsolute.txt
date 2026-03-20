@@ -1,0 +1,10 @@
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\bin\x64\Debug\BasicSimplePluginUsageSample.exe.config
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\bin\x64\Debug\BasicSimplePluginUsageSample.exe
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\bin\x64\Debug\BasicSimplePluginUsageSample.pdb
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\BasicSimplePluginUsageSample.csproj.AssemblyReference.cache
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\ImagesTest.Form1.resources
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\BasicSimplePluginUsageSample.Properties.Resources.resources
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\BasicSimplePluginUsageSample.csproj.GenerateResource.cache
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\BasicSimplePluginUsageSample.csproj.CoreCompileInputs.cache
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\BasicSimplePluginUsageSample.exe
+D:\myf\edc\6 семестр\1. Конструирование программного обеспечения\лабораторные\BasicSimplePluginUsageSample_C_sharp\BasicSimplePluginUsageSample\obj\x64\Debug\BasicSimplePluginUsageSample.pdb
